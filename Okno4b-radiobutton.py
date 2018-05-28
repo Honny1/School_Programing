@@ -3,7 +3,7 @@ from tkinter import *
  #  u kazdeho objektu lze misto grid pouzit .pack()
 def inicializaceOkna():
         okno.geometry("500x300+40+15")  # velikost a umisteni 
-        okno.title("MUŽ / ŽENA  ")       # titulek 
+        okno.title("MUÂŽ / ÂŽENA  ")       # titulek 
         okno.option_add('*Font', 'Arial 12') #  pismo  pro cele okno 
                                              #(pokud nezmenime pro jednotlive objekty)  
                                              

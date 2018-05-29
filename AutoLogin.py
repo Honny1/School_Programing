@@ -1,7 +1,7 @@
 import requests
 
-email = 'rodak.jan'
-password = '9E6wi76j'
+email = ''
+password = ''
 url = 'https://wifi.sspbrno.cz/login.html'
 
 login_data = {

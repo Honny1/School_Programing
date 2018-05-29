@@ -14,15 +14,21 @@ while idk == True:
     x=input("vyber radici operaci : ")
     if x == "1":
         print(sortMethods.bubleSort(sortMethods.read()))
+        print("\n")
     elif x == "2":
         print(sortMethods.bubleSortOptimalizet(sortMethods.read()))
+        print("\n")
     elif x == "3":
         print(sortMethods.insertSort(sortMethods.read()))
+        print("\n")
     elif x == "4":
         print(sortMethods.selectSort(sortMethods.read()))
+        print("\n")
     elif x == "5":
         print(sortMethods.quickSort(sortMethods.read()))
+        print("\n")
     elif x == "0":
         idk = False
     else:
         print("chybne zadana radici operace")
+        print("\n")

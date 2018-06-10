@@ -3,7 +3,6 @@ import random
 
 p = []
 
-
 def radnomP():
     p = []
     for i in range(9999):
